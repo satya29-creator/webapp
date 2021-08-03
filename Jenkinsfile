@@ -29,7 +29,7 @@ pipeline {
     {
         always
         {
-          build 'mypipeline'
+          echo 'Done'
         }
     }
 }
