@@ -1,6 +1,6 @@
 # About this project
 Adding
-Generating pr
+Generating pull request
 
 #demo
 This project is a simple demo web application using Java annotations. It
